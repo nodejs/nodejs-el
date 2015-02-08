@@ -9,9 +9,12 @@ iojs-el
 
 Αν θέλετε να γίνεται και εσείς μέλη της ήδη πολυπληθούς αυτής ομάδας είτε στείλτε μέηλ σε κάποιο από τα υπάρχοντα μέλη ή ανοίξτε νέο issue ή τουιτάρετε στο [@ιοξσ_ελ](https://twitter.com/iojs_el).
 
+
 ## Μέλη
 
 * Theodore Keloglou ([@sirodoht](https://github.com/sirodoht))
+* Antonis Karamitros ([@AntouanK](https://github.com/AntouanK))
+
 
 ## License
 

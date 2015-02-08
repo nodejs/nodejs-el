@@ -1,6 +1,8 @@
 iojs-el
 =======
 
+[![Join the chat at https://gitter.im/iojs/iojs-el](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iojs/iojs-el?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Καλως ήρθατε Άϊοτζέιανοί Έλληνες ντιβέλοπερς!
 
 Σκοπός του repository αυτού είναι το i18n του io.js project.

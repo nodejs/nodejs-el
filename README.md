@@ -11,6 +11,10 @@ iojs-el
 
 Αν θέλετε να γίνεται και εσείς μέλη της ήδη πολυπληθούς αυτής ομάδας είτε στείλτε μέηλ σε κάποιο από τα υπάρχοντα μέλη ή ανοίξτε νέο issue ή τουιτάρετε στο [@ιοξσ_ελ](https://twitter.com/iojs_el).
 
+## Κοινωνικά Δίκτυα
+
+- Twitter : [iojs_el](https://twitter.com/iojs_el)
+- Medium : [iojs_el] (https://medium.com/@iojs_el)
 
 ## Μέλη
 

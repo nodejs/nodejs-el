@@ -20,7 +20,7 @@ iojs-el
 
 * Theodore Keloglou ([@sirodoht](https://github.com/sirodoht))
 * Antonis Karamitros ([@AntouanK](https://github.com/AntouanK))
-* Konstantinos Margaritis ([@kmargaritis](https://github.com/kmargaritis))
+* Konstantinos Margaritis ([@margaritis](https://github.com/margaritis))
 * Fanis Katsimpas ([@fanixk](https://github.com/fanixk))
 
 ## License
